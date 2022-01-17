@@ -1,0 +1,10 @@
+name: Spiderman
+version: 1.0
+api-version: 1.8
+author: GoodErnest64
+main: com.goodernest64.spiderman.Main
+description: bruh
+commands:
+  fly:
+    description: ip
+    usage: /<command>
